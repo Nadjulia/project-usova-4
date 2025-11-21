@@ -52,6 +52,10 @@ html {
 	background-color: blueviolet;
 }
 
+body a {
+	color: #ffffff;
+	cursor: pointer;
+
 /*--header--*/
 .header {
     background-color: rgb(182, 105, 255);
@@ -282,4 +286,5 @@ html {
 .footer__text + .footer__text {
 	margin-top: 20px;
 	font-style: italic;
+
 }
